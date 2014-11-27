@@ -1,0 +1,22 @@
+{
+  "name": "create-files",
+  "description": "add files to directory from gist/url containing a manifest",
+  "keywords": "generate files gist",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jameskyburz/web-project"
+  },
+  "author": {
+    "name": "James Kyburz",
+    "email": "james.kyburz@gmail.com"
+  },
+  "bin": "index.js",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "JSONStream": "^0.10.0",
+    "hyperquest": "^1.0.1",
+    "prompt": "^0.2.14",
+    "through2": "^0.6.3"
+  }
+}
