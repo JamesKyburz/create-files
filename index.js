@@ -47,5 +47,7 @@ function create(data, enc, cb) {
 }
 
 function complete() {
-  fs.writeFileSync(configFile, manifestUrl);
+  if (!process.argv[2]) {
+    fs.writeFileSync(configFile, manifestUrl);
+  }
 }
