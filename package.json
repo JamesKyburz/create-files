@@ -4,7 +4,7 @@
   "keywords": "generate files gist",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jameskyburz/web-project"
+    "url": "git://github.com/jameskyburz/create-files"
   },
   "author": {
     "name": "James Kyburz",
