@@ -17,6 +17,6 @@
     "JSONStream": "0.10.0",
     "hyperquest": "1.2.0",
     "prompt": "0.2.14",
-    "through2": "0.6.5"
+    "through2": "2.0.0"
   }
 }
