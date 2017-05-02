@@ -1,5 +1,7 @@
 # create-files
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JamesKyburz/create-files.svg)](https://greenkeeper.io/)
+
 create-files
 
 I find myself adding the same files to most projects
