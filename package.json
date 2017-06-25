@@ -11,7 +11,7 @@
     "email": "james.kyburz@gmail.com"
   },
   "bin": "index.js",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "license": "MIT",
   "dependencies": {
     "JSONStream": "1.3.1",
